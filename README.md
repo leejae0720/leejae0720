@@ -8,4 +8,4 @@ I'm interested in autonomous systems, motor control, machine learning and mobile
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHongLeee&layout=compact&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHongLeee&show_icons=true&theme=tokyonight)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=Green&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=footer)
