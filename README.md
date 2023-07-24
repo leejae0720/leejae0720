@@ -6,5 +6,5 @@ My major is mechanical engineering and electronics engineering
 
 I'm interested in autonomous systems, motor control, machine learning and mobile robots.
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)]([https://github.com/jogilsang/jogilsang](https://github.com/JaeHongLeee)https://github.com/JaeHongLeee)﻿
 
