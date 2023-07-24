@@ -11,6 +11,6 @@ I'm interested in autonomous systems, motor control, machine learning and mobile
 
 My favorite language
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
