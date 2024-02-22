@@ -1,6 +1,6 @@
 #### Hi there 👋  
 
-My name is Jae-Hong, Lee. I received a master's degree in mechanical engineering from [Kyung Hee Universiy (https://www.khu.ac.kr/kor/main/index.do) in South Korea. Previously, I studied in the lab of [Intelligence Robot Mechatronics System](https://sites.google.com/khu.ac.kr/irms/).
+My name is Jae-Hong, Lee. I received a master's degree in mechanical engineering from [Kyung Hee Universiy](https://www.khu.ac.kr/kor/main/index.do) in South Korea. Previously, I studied in the lab of [Intelligence Robot Mechatronics System](https://sites.google.com/khu.ac.kr/irms/).
 
 My major is mechanical engineering and electronics engineering
 
