@@ -1,12 +1,12 @@
 #### Hi there 👋  
 
-My name is Jae-Hong, Lee. I'm a master's course student in the [Department of Mechanical Engineering](https://eng.khu.ac.kr/me) at [Kyung Hee Universiy](https://www.khu.ac.kr/kor/main/index.do), Korea, and work as a researcher in [Intelligence Robot Mechatronics System Lab](https://sites.google.com/khu.ac.kr/irms/).
+My name is Jae-Hong, Lee. I received a master's degree in mechanical engineering from [Kyung Hee Universiy (https://www.khu.ac.kr/kor/main/index.do) in South Korea. Previously, I studied in the lab of [Intelligence Robot Mechatronics System](https://sites.google.com/khu.ac.kr/irms/).
 
 My major is mechanical engineering and electronics engineering
 
 I'm interested in autonomous systems, motor control, machine learning, and mobile robots.
 
-📫 Contact Me: leejae0720@khu.ac.kr
+📫 Contact Me: leejae0720@naver.com or leejae0720@khu.ac.kr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHongLeee&layout=compact&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHongLeee&show_icons=true&theme=tokyonight)
