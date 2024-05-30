@@ -4,7 +4,7 @@ I received a master's degree in mechanical engineering from [Kyung Hee Universiy
 
 My major is mechanical engineering and electronics engineering
 
-📫 Contact Me: leejae0720@naver.com or leejae0720@khu.ac.kr
+📫 Contact Me: leejae0720@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHongLeee&layout=compact&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHongLeee&show_icons=true&theme=tokyonight)
