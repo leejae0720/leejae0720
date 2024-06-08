@@ -8,8 +8,8 @@ Currently, I research as a Robot Controller & Driver at [Clobot Co., Ltd](https:
 
 📫 Contact Me: leejae0720@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHongLeee&layout=compact&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHongLeee&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejae0720&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leejae0720&show_icons=true&theme=tokyonight)
 
 Language and Tools:
 
