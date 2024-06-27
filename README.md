@@ -4,7 +4,7 @@ I received a master's degree in mechanical engineering from [Kyung Hee Universiy
 
 My major is mechanical engineering and electronics engineering
 
-Currently, I research as a Robot Controller & Driver at [Clobot Co., Ltd](http://en.clobot.co.kr/?redirect=no) R&D Center.
+Currently, I research as a Robot Controller & Driver at [Clobot Co., Ltd](https://clobot.co.kr/?redirect=no) R&D Center.
 
 📫 Contact Me: leejae0720@gmail.com
 
