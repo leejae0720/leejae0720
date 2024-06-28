@@ -1,13 +1,3 @@
-#### Hi there 👋 I'm Jae-Hong, Lee  
-
-I received a master's degree in mechanical engineering from [Kyung Hee Universiy](https://www.khu.ac.kr/eng/user/main/view.do) in South Korea. Previously, I studied in the lab of [Intelligence Robot Mechatronics System](https://sites.google.com/khu.ac.kr/irms/).
-
-My major is mechanical engineering and electronics engineering
-
-Currently, I research as a Robot Controller & Driver at [Clobot Co., Ltd](https://clobot.co.kr/?redirect=no) R&D Center.
-
-📫 Contact Me: leejae0720@gmail.com
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejae0720&layout=compact&theme=tokyonight)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leejae0720&show_icons=true&theme=tokyonight)
 
